@@ -1,5 +1,5 @@
 class New
 	def initialize
-		return 1
+	 return "cats don't dance!"
 	end
 end
